@@ -9,8 +9,6 @@ struct OrderWithCards: View {
     @State var totalCount = 0
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     var body: some View {
         if #available(iOS 14.0, *) {
@@ -204,7 +202,7 @@ struct OrderWithCards: View {
     
 struct OrderWithCards_Previews: PreviewProvider {
     static var previews: some View {
-        OrderWithCards().environmentObject(ViewRouter()).environmentObject(UserData()).environmentObject(Cart())
+        OrderWithCards().environmentObject(ViewRouter())
     }
 }
 

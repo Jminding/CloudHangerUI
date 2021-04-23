@@ -6,8 +6,6 @@ import DateTimePicker
 struct DateTimeSelector: UIViewRepresentable {
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     @State var completion: () -> Void
     @Binding var show: Bool

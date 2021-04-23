@@ -4,13 +4,13 @@
 //
 //  Created by Jaymin Ding on 10/13/20.
 //  Copyright © 2020 Gavin McCabe. All rights reserved.
+//  this one doesn't do anything lol
 //
 
 import SwiftUI
 
 struct Settings: View {
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
     var body: some View {
         VStack(){
             Text("\(userData.name)'s Settings")

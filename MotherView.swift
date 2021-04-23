@@ -3,8 +3,6 @@ import SwiftUI
 struct MotherView: View {
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     var body: some View {
         

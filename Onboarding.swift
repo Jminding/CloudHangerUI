@@ -3,8 +3,7 @@ import SwiftUI
 struct Onboarding: View {
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
+
     
     var body: some View {
         ZStack(){
@@ -70,6 +69,6 @@ struct Onboarding: View {
 
 struct Onboarding_Previews: PreviewProvider {
     static var previews: some View {
-        Onboarding().environmentObject(ViewRouter()).environmentObject(UserData())
+        Onboarding().environmentObject(ViewRouter())
     }
 }

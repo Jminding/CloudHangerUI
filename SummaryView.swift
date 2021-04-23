@@ -3,8 +3,6 @@ import SwiftUI
 struct SummaryView: View {
     
     @EnvironmentObject var cart: Cart
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var viewRouter: ViewRouter
     
     var body: some View {
         

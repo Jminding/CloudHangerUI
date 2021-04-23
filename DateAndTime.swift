@@ -4,8 +4,6 @@ import PassKit
 struct DateAndTime: View {
 
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     let paymentHandler = PaymentHandler()
     

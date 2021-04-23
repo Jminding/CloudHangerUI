@@ -7,8 +7,6 @@ struct isdrycleaner: Identifiable {
     let longitude: Double
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     var coordinate: CLLocationCoordinate2D {
       CLLocationCoordinate2D(latitude: latitude, longitude: longitude)
@@ -40,6 +38,6 @@ struct ActualMapView: View {
   }
 struct ActualMapvView_Previews: PreviewProvider {
     static var previews: some View {
-        ActualMapView().environmentObject(ViewRouter()).environmentObject(UserData())
+        ActualMapView().environmentObject(ViewRouter())
     }
 }

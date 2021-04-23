@@ -2,14 +2,12 @@ import SwiftUI
 struct HomeView: View {
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     var body: some View {
         VStack(){
             Spacer()
             HStack{
-                Text("Hello, \(userData.name)")
+                Text("Hello, \(name)") // here there would have been database related code (aka the name from the database), but I removed it due to this repository going public
                     .font(.custom("OpenSans-Semibold",size: 48.0))
                     .padding(.leading)
                 Spacer()
@@ -80,6 +78,6 @@ struct HomeView: View {
 
 struct HomeView_Previews: PreviewProvider {
     static var previews: some View {
-        HomeView().environmentObject(ViewRouter()).environmentObject(UserData()).environmentObject(Cart())
+        HomeView().environmentObject(ViewRouter())
     }
 }

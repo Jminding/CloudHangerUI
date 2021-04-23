@@ -2,9 +2,6 @@ import SwiftUI
 
 struct PantsOrderGrid: View {
     
-    @EnvironmentObject var cart: Cart
-    @EnvironmentObject var userData: UserData
-    
     var body: some View {
         
         ScrollView(.vertical, showsIndicators: false){

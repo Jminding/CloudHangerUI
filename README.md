@@ -1,6 +1,7 @@
-# CloudHanger
+# CloudHangerUI
 ## About CloudHanger
 This is a submission for the [2020 Congressional App Challenge](https://congressionalappchallenge.us/20-nj09).
+This only contains the UI for the app as the backend is not open source.
 
 ## Why I decided to do this project
 It helps the local community, and especially the local dry cleaning businesses.

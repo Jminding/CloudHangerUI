@@ -2,7 +2,7 @@ import SwiftUI
 
 struct SummaryView: View {
     
-    @EnvironmentObject var cart: Cart
+    @EnvironmentObject var viewRouter: ViewRouter
     
     var body: some View {
         

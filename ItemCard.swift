@@ -3,8 +3,6 @@ import SwiftUI
 struct ItemCard: View {
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     @State var color: Color
     @State var image: Image

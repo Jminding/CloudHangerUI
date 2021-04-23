@@ -6,8 +6,6 @@ struct ButtonView: View {
     @State var action:() -> Void
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     var body: some View {
         

@@ -3,8 +3,6 @@ import SwiftUI
 struct QuantitySelector: View {
     
     @EnvironmentObject var viewRouter: ViewRouter
-    @EnvironmentObject var userData: UserData
-    @EnvironmentObject var cart: Cart
     
     @State var count = 0
     @State var item: Item

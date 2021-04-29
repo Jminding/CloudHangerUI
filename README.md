@@ -1,4 +1,6 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://github.com/Jminding/CloudHangerUI/blob/main/CloudHangerLogo.ico?raw=true">
+<head>
+  <link rel="shortcut icon" type="image/x-icon" href="CloudHangerLogo.ico">
+</head>
 
 # CloudHanger
 ## About CloudHanger

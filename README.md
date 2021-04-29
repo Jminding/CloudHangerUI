@@ -15,3 +15,4 @@ This app is basically a dry cleaner, but online.  A dry cleaner uploads their me
 
 ### [Demo video](https://jminding.github.io/CloudHangerUI/demovideo)
 ### [Demo Video (raw)](https://jminding.github.io/CloudHangerUI/video)
+[![Download Source Code](https://github.com/Jminding/CloudHangerUI/archive/refs/tags/v1.0.zip)

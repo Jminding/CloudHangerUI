@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="https://github.com/Jminding/CloudHangerUI/blob/main/CloudHangerLogo.ico?raw=true">
+
 # CloudHanger
 ## About CloudHanger
 This is a submission for the [2020 Congressional App Challenge](https://congressionalappchallenge.us/20-nj09).

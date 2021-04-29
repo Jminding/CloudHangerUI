@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" type="image/x-icon" href="CloudHangerLogo.ico">
+  <link rel="shortcut icon" type="image/png" href="CloudHangerLogo.png">
 </head>
 
 # CloudHanger

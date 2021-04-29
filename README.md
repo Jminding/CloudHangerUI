@@ -2,7 +2,7 @@
   <link rel="shortcut icon" type="image/png" href="CloudHangerLogo.png">
 </head>
 
-# CloudHanger
+<h1>CloudHanger</h1>[![](https://img.shields.io/github/license/Jminding/CloudHangerUI?style=for-the-badge)](https://github.com/Jminding/CloudHangerUI/blob/main/LICENSE)
 ## About CloudHanger
 This is a submission for the [2020 Congressional App Challenge](https://congressionalappchallenge.us/20-nj09).
 

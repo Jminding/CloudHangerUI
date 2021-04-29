@@ -2,7 +2,7 @@
   <link rel="shortcut icon" type="image/png" href="CloudHangerLogo.png">
 </head>
 
-# CloudHanger [![](https://img.shields.io/badge/Download-Source%20Code-green?style=for-the-badge)](https://github.com/Jminding/CloudHangerUI/archive/refs/tags/v1.0.zip)
+# CloudHanger
 ## About CloudHanger
 This is a submission for the [2020 Congressional App Challenge](https://congressionalappchallenge.us/20-nj09).
 
@@ -15,3 +15,4 @@ This app is basically a dry cleaner, but online.  A dry cleaner uploads their me
 
 ### [Demo video](https://jminding.github.io/CloudHangerUI/demovideo)
 ### [Demo Video (raw embed)](https://jminding.github.io/CloudHangerUI/video)
+[![](https://img.shields.io/badge/Download-Source%20Code-green?style=for-the-badge)](https://github.com/Jminding/CloudHangerUI/archive/refs/tags/v1.0.zip)

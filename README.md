@@ -13,6 +13,6 @@ Lately, especially during the Covid-19 pandemic, dry cleaners have suffered.  Th
 ## What this app does
 This app is basically a dry cleaner, but online.  A dry cleaner uploads their menu and such to the app, where customers can see it.  Customers can log in to see the status of their clothes, find another dry cleaner, or look at the past transactions.
 
-### [Demo video](https://jminding.github.io/CloudHangerUI/demovideo)
-### [Demo Video (raw embed)](https://jminding.github.io/CloudHangerUI/video)
-[![](https://img.shields.io/badge/Download-Source%20Code-green?style=for-the-badge)](https://github.com/Jminding/CloudHangerUI/archive/refs/tags/v1.0.zip)
+### [![Demo Video](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge)](https://jminding.github.io/CloudHangerUI/demovideo)
+### [![Demo Video (Raw Embed)](https://img.shields.io/badge/Watch-Demo%20(Raw%20Embed)-blue?style=for-the-badge)](https://jminding.github.io/CloudHangerUI/demovideo)
+[![Download Source Code](https://img.shields.io/badge/Download-Source%20Code-green?style=for-the-badge)](https://github.com/Jminding/CloudHangerUI/archive/refs/tags/v1.0.zip)

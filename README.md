@@ -2,7 +2,7 @@
   <link rel="shortcut icon" type="image/png" href="CloudHangerLogo.png">
 </head>
 
-# CloudHanger
+# CloudHanger [![](https://img.shields.io/badge/Download-Source%20Code-green?style=for-the-badge)](https://github.com/Jminding/CloudHangerUI/archive/refs/tags/v1.0.zip)
 ## About CloudHanger
 This is a submission for the [2020 Congressional App Challenge](https://congressionalappchallenge.us/20-nj09).
 
@@ -14,5 +14,4 @@ Lately, especially during the Covid-19 pandemic, dry cleaners have suffered.  Th
 This app is basically a dry cleaner, but online.  A dry cleaner uploads their menu and such to the app, where customers can see it.  Customers can log in to see the status of their clothes, find another dry cleaner, or look at the past transactions.
 
 ### [Demo video](https://jminding.github.io/CloudHangerUI/demovideo)
-### [Demo Video (raw)](https://jminding.github.io/CloudHangerUI/video)
-![](https://img.shields.io/badge/Download-Source%20Code-green?style=for-the-badge)
+### [Demo Video (raw embed)](https://jminding.github.io/CloudHangerUI/video)

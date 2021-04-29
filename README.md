@@ -16,3 +16,5 @@ Lately, especially during the Covid-19 pandemic, dry cleaners have suffered.  Th
 
 ## What this app does
 This app is basically a dry cleaner, but online.  A dry cleaner uploads their menu and such to the app, where customers can see it.  Customers can log in to see the status of their clothes, find another dry cleaner, or look at the past transactions.
+
+[![](https://img.shields.io/badge/Check%20out-Hangr-6ea4fa?style=for-the-badge)](https://hangr.app) - Newer version of this app
